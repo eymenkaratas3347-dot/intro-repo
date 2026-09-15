@@ -1,0 +1,17 @@
+{
+  "name": "Eymen Karatas",
+  "short_name": "EK",
+  "description": "Front-End Developer & Full-Stack Engineer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06080f",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: siteConfig.title,
   description: siteConfig.description,
+  manifest: "/site.webmanifest",
   keywords: [
     "Eymen Karatas",
     "Front-End Developer",
