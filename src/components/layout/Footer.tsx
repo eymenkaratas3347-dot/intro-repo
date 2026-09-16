@@ -60,7 +60,7 @@ export function Footer() {
                 </a>
               </li>
               <li className="flex items-center gap-2 text-sm text-muted">
-                <MapPin size={15} />
+                <MapPin size={16} />
                 {siteConfig.location}
               </li>
             </ul>
